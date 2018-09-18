@@ -1,0 +1,12 @@
+c:\Users\екатерина шайнурова\source\repos\FileDiff\FileDiff.Model\bin\Debug\FileDiff.Model.dll
+c:\Users\екатерина шайнурова\source\repos\FileDiff\FileDiff.Model\bin\Debug\FileDiff.Model.pdb
+c:\Users\екатерина шайнурова\source\repos\FileDiff\FileDiff.Model\obj\Debug\FileDiff.Model.csproj.CoreCompileInputs.cache
+c:\Users\екатерина шайнурова\source\repos\FileDiff\FileDiff.Model\obj\Debug\FileDiff.Model.dll
+c:\Users\екатерина шайнурова\source\repos\FileDiff\FileDiff.Model\obj\Debug\FileDiff.Model.pdb
+c:\Users\екатерина шайнурова\source\repos\FileDiff\FileDiff.Model\obj\Debug\FileDiff.Model.csprojAssemblyReference.cache
+C:\Users\n.avetisova\Desktop\DiffFile-master\FileDiff.Model\bin\Debug\FileDiff.Model.dll
+C:\Users\n.avetisova\Desktop\DiffFile-master\FileDiff.Model\bin\Debug\FileDiff.Model.pdb
+C:\Users\n.avetisova\Desktop\DiffFile-master\FileDiff.Model\obj\Debug\FileDiff.Model.csprojAssemblyReference.cache
+C:\Users\n.avetisova\Desktop\DiffFile-master\FileDiff.Model\obj\Debug\FileDiff.Model.csproj.CoreCompileInputs.cache
+C:\Users\n.avetisova\Desktop\DiffFile-master\FileDiff.Model\obj\Debug\FileDiff.Model.dll
+C:\Users\n.avetisova\Desktop\DiffFile-master\FileDiff.Model\obj\Debug\FileDiff.Model.pdb

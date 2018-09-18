@@ -1,0 +1,36 @@
+c:\users\екатерина шайнурова\source\repos\FileDiff\FileDiff\obj\Debug\FileDiff.App.csprojAssemblyReference.cache
+c:\users\екатерина шайнурова\source\repos\FileDiff\FileDiff\obj\Debug\FileDiff.Properties.Resources.resources
+c:\users\екатерина шайнурова\source\repos\FileDiff\FileDiff\obj\Debug\FileDiff.App.csproj.GenerateResource.cache
+c:\users\екатерина шайнурова\source\repos\FileDiff\FileDiff\obj\Debug\FileDiff.App.csproj.CoreCompileInputs.cache
+c:\users\екатерина шайнурова\source\repos\FileDiff\FileDiff\bin\Debug\FileDiff.exe.config
+c:\users\екатерина шайнурова\source\repos\FileDiff\FileDiff\bin\Debug\FileDiff.exe
+c:\users\екатерина шайнурова\source\repos\FileDiff\FileDiff\bin\Debug\FileDiff.pdb
+c:\users\екатерина шайнурова\source\repos\FileDiff\FileDiff\obj\Debug\FileDiff.exe
+c:\users\екатерина шайнурова\source\repos\FileDiff\FileDiff\obj\Debug\FileDiff.pdb
+c:\users\екатерина шайнурова\source\repos\FileDiff\FileDiff\bin\Debug\FileDiff.Presenter.dll
+c:\users\екатерина шайнурова\source\repos\FileDiff\FileDiff\bin\Debug\FileDiff.View.dll
+c:\users\екатерина шайнурова\source\repos\FileDiff\FileDiff\bin\Debug\FileDiff.Presenter.pdb
+c:\users\екатерина шайнурова\source\repos\FileDiff\FileDiff\bin\Debug\FileDiff.View.pdb
+c:\users\екатерина шайнурова\source\repos\FileDiff\FileDiff\obj\Debug\FileDiff.App.csproj.CopyComplete
+c:\users\екатерина шайнурова\source\repos\FileDiff\FileDiff\bin\Debug\FileDiff.Model.dll
+c:\users\екатерина шайнурова\source\repos\FileDiff\FileDiff\bin\Debug\FileDiff.Model.pdb
+c:\Users\екатерина шайнурова\source\repos\FileDiff\FileDiff\bin\Debug\FileDiff.ViewModel.dll
+c:\Users\екатерина шайнурова\source\repos\FileDiff\FileDiff\bin\Debug\FileDiff.ViewModel.pdb
+C:\Users\n.avetisova\Desktop\DiffFile-master\FileDiff\bin\Debug\FileDiff.exe.config
+C:\Users\n.avetisova\Desktop\DiffFile-master\FileDiff\bin\Debug\FileDiff.exe
+C:\Users\n.avetisova\Desktop\DiffFile-master\FileDiff\bin\Debug\FileDiff.pdb
+C:\Users\n.avetisova\Desktop\DiffFile-master\FileDiff\bin\Debug\FileDiff.Presenter.dll
+C:\Users\n.avetisova\Desktop\DiffFile-master\FileDiff\bin\Debug\FileDiff.View.dll
+C:\Users\n.avetisova\Desktop\DiffFile-master\FileDiff\bin\Debug\FileDiff.ViewModel.dll
+C:\Users\n.avetisova\Desktop\DiffFile-master\FileDiff\bin\Debug\FileDiff.Model.dll
+C:\Users\n.avetisova\Desktop\DiffFile-master\FileDiff\bin\Debug\FileDiff.Presenter.pdb
+C:\Users\n.avetisova\Desktop\DiffFile-master\FileDiff\bin\Debug\FileDiff.View.pdb
+C:\Users\n.avetisova\Desktop\DiffFile-master\FileDiff\bin\Debug\FileDiff.ViewModel.pdb
+C:\Users\n.avetisova\Desktop\DiffFile-master\FileDiff\bin\Debug\FileDiff.Model.pdb
+C:\Users\n.avetisova\Desktop\DiffFile-master\FileDiff\obj\Debug\FileDiff.App.csprojAssemblyReference.cache
+C:\Users\n.avetisova\Desktop\DiffFile-master\FileDiff\obj\Debug\FileDiff.Properties.Resources.resources
+C:\Users\n.avetisova\Desktop\DiffFile-master\FileDiff\obj\Debug\FileDiff.App.csproj.GenerateResource.cache
+C:\Users\n.avetisova\Desktop\DiffFile-master\FileDiff\obj\Debug\FileDiff.App.csproj.CoreCompileInputs.cache
+C:\Users\n.avetisova\Desktop\DiffFile-master\FileDiff\obj\Debug\FileDiff.App.csproj.CopyComplete
+C:\Users\n.avetisova\Desktop\DiffFile-master\FileDiff\obj\Debug\FileDiff.exe
+C:\Users\n.avetisova\Desktop\DiffFile-master\FileDiff\obj\Debug\FileDiff.pdb

@@ -1,0 +1,26 @@
+c:\Users\екатерина шайнурова\source\repos\FileDiff\FileDiff.Presenter\bin\Debug\FileDiff.Presenter.dll
+c:\Users\екатерина шайнурова\source\repos\FileDiff\FileDiff.Presenter\bin\Debug\FileDiff.Presenter.pdb
+c:\Users\екатерина шайнурова\source\repos\FileDiff\FileDiff.Presenter\bin\Debug\FileDiff.View.dll
+c:\Users\екатерина шайнурова\source\repos\FileDiff\FileDiff.Presenter\bin\Debug\FileDiff.View.pdb
+c:\Users\екатерина шайнурова\source\repos\FileDiff\FileDiff.Presenter\obj\Debug\FileDiff.Presenter.csprojAssemblyReference.cache
+c:\Users\екатерина шайнурова\source\repos\FileDiff\FileDiff.Presenter\obj\Debug\FileDiff.Presenter.csproj.CoreCompileInputs.cache
+c:\Users\екатерина шайнурова\source\repos\FileDiff\FileDiff.Presenter\obj\Debug\FileDiff.Presenter.csproj.CopyComplete
+c:\Users\екатерина шайнурова\source\repos\FileDiff\FileDiff.Presenter\obj\Debug\FileDiff.Presenter.dll
+c:\Users\екатерина шайнурова\source\repos\FileDiff\FileDiff.Presenter\obj\Debug\FileDiff.Presenter.pdb
+c:\Users\екатерина шайнурова\source\repos\FileDiff\FileDiff.Presenter\bin\Debug\FileDiff.Model.dll
+c:\Users\екатерина шайнурова\source\repos\FileDiff\FileDiff.Presenter\bin\Debug\FileDiff.Model.pdb
+c:\Users\екатерина шайнурова\source\repos\FileDiff\FileDiff.Presenter\bin\Debug\FileDiff.ViewModel.dll
+c:\Users\екатерина шайнурова\source\repos\FileDiff\FileDiff.Presenter\bin\Debug\FileDiff.ViewModel.pdb
+C:\Users\n.avetisova\Desktop\DiffFile-master\FileDiff.Presenter\bin\Debug\FileDiff.Presenter.dll
+C:\Users\n.avetisova\Desktop\DiffFile-master\FileDiff.Presenter\bin\Debug\FileDiff.Presenter.pdb
+C:\Users\n.avetisova\Desktop\DiffFile-master\FileDiff.Presenter\bin\Debug\FileDiff.Model.dll
+C:\Users\n.avetisova\Desktop\DiffFile-master\FileDiff.Presenter\bin\Debug\FileDiff.View.dll
+C:\Users\n.avetisova\Desktop\DiffFile-master\FileDiff.Presenter\bin\Debug\FileDiff.ViewModel.dll
+C:\Users\n.avetisova\Desktop\DiffFile-master\FileDiff.Presenter\bin\Debug\FileDiff.Model.pdb
+C:\Users\n.avetisova\Desktop\DiffFile-master\FileDiff.Presenter\bin\Debug\FileDiff.ViewModel.pdb
+C:\Users\n.avetisova\Desktop\DiffFile-master\FileDiff.Presenter\bin\Debug\FileDiff.View.pdb
+C:\Users\n.avetisova\Desktop\DiffFile-master\FileDiff.Presenter\obj\Debug\FileDiff.Presenter.csprojAssemblyReference.cache
+C:\Users\n.avetisova\Desktop\DiffFile-master\FileDiff.Presenter\obj\Debug\FileDiff.Presenter.csproj.CoreCompileInputs.cache
+C:\Users\n.avetisova\Desktop\DiffFile-master\FileDiff.Presenter\obj\Debug\FileDiff.Presenter.csproj.CopyComplete
+C:\Users\n.avetisova\Desktop\DiffFile-master\FileDiff.Presenter\obj\Debug\FileDiff.Presenter.dll
+C:\Users\n.avetisova\Desktop\DiffFile-master\FileDiff.Presenter\obj\Debug\FileDiff.Presenter.pdb

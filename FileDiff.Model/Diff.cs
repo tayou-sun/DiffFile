@@ -134,7 +134,10 @@ namespace Model.FileDiff
         {
             var totalSkip = _preSkip + _postSkip;
 
-           _matrix = new int[_firstLines.Count - totalSkip + 1, _secondLines.Count - totalSkip + 1];
+            if (totalSkip >= _firstLines.Count || totalSkip >= _secondLines.Count)
+                return;
+
+            _matrix = new int[_firstLines.Count - totalSkip + 1, _secondLines.Count - totalSkip + 1];
 
             for (var i = 1; i <= _firstLines.Count - totalSkip; i++)
             {

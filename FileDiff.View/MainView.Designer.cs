@@ -36,7 +36,7 @@
             this.FirstFileButton = new System.Windows.Forms.Button();
             this.SecondFileButton = new System.Windows.Forms.Button();
             this.ResultButton = new System.Windows.Forms.Button();
-            this.listBox1 = new System.Windows.Forms.ListBox();
+            this.listBox = new System.Windows.Forms.ListBox();
             this.diffListBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.bindingSource1 = new System.Windows.Forms.BindingSource(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.diffListBindingSource)).BeginInit();
@@ -103,16 +103,16 @@
             this.ResultButton.Text = "Показать изменения";
             this.ResultButton.UseVisualStyleBackColor = true;
             // 
-            // listBox1
+            // listBox
             // 
-            this.listBox1.DataSource = this.diffListBindingSource;
-            this.listBox1.DisplayMember = "Value";
-            this.listBox1.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
-            this.listBox1.FormattingEnabled = true;
-            this.listBox1.Location = new System.Drawing.Point(25, 123);
-            this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(315, 134);
-            this.listBox1.TabIndex = 7;
+            this.listBox.DataSource = this.diffListBindingSource;
+            this.listBox.DisplayMember = "Value";
+            this.listBox.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
+            this.listBox.FormattingEnabled = true;
+            this.listBox.Location = new System.Drawing.Point(25, 123);
+            this.listBox.Name = "listBox";
+            this.listBox.Size = new System.Drawing.Size(315, 134);
+            this.listBox.TabIndex = 7;
             // 
             // diffListBindingSource
             // 
@@ -128,7 +128,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(356, 345);
-            this.Controls.Add(this.listBox1);
+            this.Controls.Add(this.listBox);
             this.Controls.Add(this.ResultButton);
             this.Controls.Add(this.SecondFileButton);
             this.Controls.Add(this.FirstFileButton);
@@ -147,15 +147,15 @@
 
         #endregion
 
-        private System.Windows.Forms.TextBox FirstFileTextBox;
-        private System.Windows.Forms.TextBox SecondFileTextBox;
+        public System.Windows.Forms.TextBox FirstFileTextBox;
+        public System.Windows.Forms.TextBox SecondFileTextBox;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         public System.Windows.Forms.Button SecondFileButton;
         public System.Windows.Forms.Button ResultButton;
         public System.Windows.Forms.Button FirstFileButton;
         public System.Windows.Forms.BindingSource bindingSource1;
-        public System.Windows.Forms.ListBox listBox1;
+        public System.Windows.Forms.ListBox listBox;
         private System.Windows.Forms.BindingSource diffListBindingSource;
     }
 }

@@ -29,13 +29,13 @@ namespace FileDiff.Presenter
             _view.FirstFileButton.Click += FirstFileButtonOnClick;
             _view.SecondFileButton.Click += SecondFileButton_Click;
             _view.ResultButton.Click += ResultButtonOnClick;
-            _view.listBox1.DrawItem += new DrawItemEventHandler(TestListBox_DrawItem);
+            _view.listBox.DrawItem += new DrawItemEventHandler(TestListBox_DrawItem);
 
         }
 
         private void TestListBox_DrawItem(object sender, DrawItemEventArgs e)
         {
-            if (!(_view.listBox1.Items[e.Index] is DiffLine item)) return;
+            if (!(_view.listBox.Items[e.Index] is DiffLine item)) return;
             var color = Color.Green;
 
             switch (item.DiffType)
@@ -50,10 +50,10 @@ namespace FileDiff.Presenter
 
             e.Graphics.DrawString( 
                 item.Value, 
-                _view.listBox1.Font,
+                _view.listBox.Font,
                 new SolidBrush(color), 
                 0, 
-                e.Index *_view.listBox1.ItemHeight
+                e.Index *_view.listBox.ItemHeight
             );
         }
 
@@ -61,7 +61,7 @@ namespace FileDiff.Presenter
         {
             var diff = new Diff(_firstLines, _secondLines);
             _mainViewModel.DiffList = diff.GetDiffList();
-            _view.listBox1.DrawItem += new DrawItemEventHandler(TestListBox_DrawItem);
+            _view.listBox.DrawItem += new DrawItemEventHandler(TestListBox_DrawItem);
         }
 
         public void SecondFileButton_Click(object sender, EventArgs e)
@@ -83,6 +83,7 @@ namespace FileDiff.Presenter
             var text = File.ReadAllText(fileName);
             _secondLines = File.ReadLines(fileName,
                 System.Text.Encoding.GetEncoding(1251)).ToList();
+            _view.SecondFileTextBox.Text = fileName;
         }
 
         public void FirstFileButtonOnClick(object sender, EventArgs e)
@@ -102,6 +103,7 @@ namespace FileDiff.Presenter
             var text = File.ReadAllText(fileName);
             _firstLines = File.ReadLines(fileName,
                 System.Text.Encoding.GetEncoding(1251)).ToList();
+            _view.FirstFileTextBox.Text = fileName;
 
         }
 
